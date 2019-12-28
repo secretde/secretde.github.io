@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 ,汕头综合
+#EXTINF:-1 group-title="潮汕专属",汕头综合
 http://dslive.grtn.cn/stzh/playlist.m3u8?ts
-#EXTINF:-1 ,揭阳综合
-http://dslive.grtn.cn/jyzh/sd/live.m3u8
-#EXTINF:-1 ,潮州综合
+#EXTINF:-1 group-title="潮汕专属",潮州综合
 http://live.zscz0768.com/live/zhpd.m3u8
-#EXTINF:-1 ,潮州公共
+#EXTINF:-1 group-title="潮汕专属",潮州公共
 http://live.zscz0768.com/live/ggpd.m3u8
-#EXTINF:-1 ,广东新闻
+#EXTINF:-1 group-title="潮汕专属",揭阳综合
+http://dslive.grtn.cn/jyzh/sd/live.m3u8
+#EXTINF:-1 group-title="潮汕专属",广东新闻
 http://nclive.grtn.cn/xwpd/sd/live.m3u8
 
 #EXTINF:-1 ,黑帮电影
