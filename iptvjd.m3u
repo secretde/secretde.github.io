@@ -78,6 +78,7 @@ http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_qimiaoshijie_108
 http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_kexuetansuo_1080p_t10/c16_lb_kexuetansuo_1080p_t10.m3u8
 #EXTINF:-1 ,军事观察
 http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_junshinew_1080p_t10/c16_lb_junshinew_1080p_t10.m3u8
+
 #EXTINF:-1 ,电影-周星驰
 https://tx.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_1200.m3u8
 #EXTINF:-1 ,电影-林正英
@@ -156,8 +157,6 @@ https://al.hls.huya.com/huyalive/29106097-2689451202-11551104956777889792-278927
 https://ws4.streamhls.huya.com/huyalive/30765679-2480288304-10652757150331305984-2789274538-10057-A-1511757260-1_1200/playlist.m3u8
 #EXTINF:-1 ,电影-开心鬼
 https://aldirect.hls.huya.com/huyalive/29169025-2686221566-11537233775779905536-2789253842-10057-A-1523933708-1_1200.m3u8
-#EXTINF:-1 ,电影-金庸电影
-https://aldirect.hls.huya.com/huyalive/29359996-2689645314-11551938661469650944-2847687586-10057-A-0-1_1200.m3u8
 #EXTINF:-1 ,电影-女神系列3
 https://aldirect.hls.huya.com/huyalive/28466698-2689661530-11552008308659322880-3049003102-10057-A-0-1_1200.m3u8
 #EXTINF:-1 ,电影-林正英2
@@ -170,8 +169,6 @@ https://aldirect.hls.huya.com/huyalive/29169025-2686220062-11537227316149092352-
 https://aldirect.hls.huya.com/huyalive/30765679-2672001664-11476159761737580544-3048991600-10057-A-0-1_1200.m3u8
 #EXTINF:-1 ,电影-刘德华
 https://aldirect.hls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1_1200.m3u8
-#EXTINF:-1 ,电影-金庸电影
-https://aldirect.hls.huya.com/huyalive/29359996-2689645314-11551938661469650944-2847687586-10057-A-0-1_1200.m3u8
 #EXTINF:-1 ,电影-洪金宝
 http://tx.hls.huya.com/huyalive/29106097-2689406282-11550912026846953472-2789274558-10057-A-0-1.m3u8
 #EXTINF:-1 ,电影-周星驰
@@ -242,8 +239,7 @@ http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2
 https://aldirect.hls.huya.com/huyalive/29169025-2686220062-11537227316149092352-2777037828-10057-A-1524041857-1_1200.m3u8
 #EXTINF:-1 ,电影-笑傲江湖
 http://ws4.streamhls.huya.com/huyalive/30765679-2484192476-10669525441389264896-2789274564-10057-A-0-1_10000/playlist.m3u8
-#EXTINF:-1 ,====== 虎牙电视剧,#genre# ======
-http://0/0.m3u8
+
 #EXTINF:-1 ,电视剧-爱情公寓
 https://tx.hls.huya.com/huyalive/30765679-2523417493-10837995606589308928-2777071594-10057-A-0-1_1200.m3u8
 #EXTINF:-1 ,电视剧-陈翔六点半
