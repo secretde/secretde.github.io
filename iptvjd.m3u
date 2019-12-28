@@ -79,10 +79,14 @@ http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_kexuetansuo_1080
 https://tx.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_1200.m3u8
 #EXTINF:-1 group-title="虎牙电影轮播",电影-林正英
 https://tx.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="虎牙电影轮播",电影-沈腾
+http://tx.hls.huya.com/huyalive/29141112-2689675756-11552069408864075776-3048959626-10057-A-0-1.m3u8
 #EXTINF:-1 group-title="虎牙电影轮播",电影-李连杰
-https://js.hls.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1_1200.m3u8
+http://js.hls.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1_1200.m3u8
 #EXTINF:-1 group-title="虎牙电影轮播",漫威电影
 http://tx.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="虎牙电影轮播",DC小丑系列
+http://tx.hls.huya.com/huyalive/1448738174-1448738174-6222283077796757504-2847699112-10057-A-0-1.m3u8	
 #EXTINF:-1 group-title="虎牙电影轮播",电影-速度与激情
 https://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
 #EXTINF:-1 group-title="虎牙电影轮播",电影-变形金刚
@@ -91,6 +95,8 @@ http://aldirect.hls.huya.com/huyalive/29106097-2689448236-11551092217904889856-2
 https://aldirect.hls.huya.com/huyalive/29359996-2689645314-11551938661469650944-2847687586-10057-A-0-1_1200.m3u8
 #EXTINF:-1 group-title="虎牙电影轮播",电影-成龙
 http://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="虎牙电影轮播",电影-韩国犯罪
+http://aldirect.hls.huya.com/huyalive/28466698-2689662310-11552011658733813760-3048959582-10057-A-1525512946-1.m3u8
 #EXTINF:-1 group-title="虎牙电影轮播",电影-女神系列2
 https://aldirect.hls.huya.com/huyalive/94525224-2472147404-10617792251071299584-2777026638-10057-A-0-1_1200.m3u8
 #EXTINF:-1 group-title="虎牙电影轮播",电影-吴京
@@ -171,8 +177,6 @@ http://tx.hls.huya.com/huyalive/30765679-2523417522-10837995731143360512-2777068
 http://tx.hls.huya.com/huyalive/29106097-2689446042-11551082794746642432-2789253870-10057-A-0-1.m3u8
 #EXTINF:-1 group-title="虎牙电影轮播",电影-成龙
 http://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="虎牙电影轮播",电影-李连杰
-http://js.hls.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1_1200.m3u8
 #EXTINF:-1 group-title="虎牙电影轮播",电影-女神港片
 http://tx.hls.huya.com/huyalive/30765679-2484192476-10669525441389264896-2789274564-10057-A-0-1.m3u8
 #EXTINF:-1 group-title="虎牙电影轮播",电影-丧尸
@@ -212,12 +216,24 @@ http://aldirect.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2
 #EXTINF:-1 group-title="虎牙电影轮播",电影-开心鬼
 https://aldirect.hls.huya.com/huyalive/29169025-2686220062-11537227316149092352-2777037828-10057-A-1524041857-1_1200.m3u8
 
-#EXTINF:-1 group-title="虎牙电视剧轮播",电视剧-爱情公寓
+#EXTINF:-1 group-title="虎牙电视剧轮播",爱情公寓
 https://tx.hls.huya.com/huyalive/30765679-2523417493-10837995606589308928-2777071594-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="虎牙电视剧轮播",武林外传
+http://tx.hls.huya.com/huyalive/29141112-2689670670-11552047564660408320-2847687630-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="虎牙电视剧轮播",天下第一
+http://aldirect.hls.huya.com/huyalive/30765679-2691679356-11560674805338341376-2847699204-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="虎牙电视剧轮播",猪八戒系列
+http://tx.hls.huya.com/huyalive/29169025-2686220680-11537229970438881280-2847687524-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="虎牙电视剧轮播",仙剑奇侠传
+http://tx.hls.huya.com/huyalive/30765679-2523417506-10837995662423883776-2777071322-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="虎牙电视剧轮播",港版西游记
+http://aldirect.hls.huya.com/huyalive/30765679-2550665260-10955023874743336960-2789253862-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="虎牙电视剧轮播",屌丝男士
+http://aldirect.hls.huya.com/huyalive/29106097-2689285720-11550394216999813120-2789274540-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="虎牙电视剧轮播",生活大爆炸
+http://aldirect.hls.huya.com/huyalive/29169025-2686221732-11537234488744476672-2847699168-10057-A-0-1.m3u8
 #EXTINF:-1 group-title="虎牙电视剧轮播",电视剧-陈翔六点半
 https://aldirect.hls.huya.com/huyalive/94525224-2655537474-11405446604132450304-2704233350-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="虎牙电视剧轮播",电视剧-终极一班
-https://aldirect.hls.huya.com/huyalive/29169025-2686220910-11537230958281359360-2847687608-10057-A-1524018691-1_1200.m3u8
 #EXTINF:-1 group-title="虎牙电视剧轮播",电视剧-新三国
 https://aldirect.hls.huya.com/huyalive/30765679-2523417353-10837995005293887488-2847699118-10057-A-0-1_1200.m3u8
 #EXTINF:-1 group-title="虎牙电视剧轮播",电视剧-亮剑
@@ -236,8 +252,8 @@ https://aldirect.hls.huya.com/huyalive/29141112-2689671100-11552049411496345600-
 https://aldirect.hls.huya.com/huyalive/29169025-2686220598-11537229618251563008-2847687556-10057-A-1524043048-1_1200.m3u8
 #EXTINF:-1 group-title="虎牙电视剧轮播",电视剧-鹿鼎记
 https://aldirect.hls.huya.com/huyalive/94525224-2701055008-11600942924057018368-2847687618-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="虎牙电视剧轮播",电视剧-卫国无敌
-https://aldirect.hls.huya.com/huyalive/29169025-2686221276-11537232530239389696-2777027178-10057-A-1524213244-1_1200.m3u8
+#EXTINF:-1 group-title="虎牙电视剧轮播",电视剧-雪豹
+http://tx.hls.huya.com/huyalive/29169025-2686221276-11537232530239389696-2777027178-10057-A-0-1.m3u8
 #EXTINF:-1 group-title="虎牙电视剧轮播",电视剧-温柔的谎言
 https://aldirect.hls.huya.com/huyalive/29359996-2689613622-11551802545366106112-2847687550-10057-A-0-1_1200.m3u8
 #EXTINF:-1 group-title="虎牙电视剧轮播",电视剧-士兵突击
