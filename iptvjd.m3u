@@ -1,8 +1,10 @@
 #EXTM3U
-#EXTINF:-1 group-title="潮汕频道",汕头综合
-http://dslive.grtn.cn/stzh/playlist.m3u8?ts
+#EXTINF:-1 group-title="潮汕频道",汕头一套
+http://dslive.grtn.cn/stzh/sd/live.m3u8
+#EXTINF:-1 group-title="潮汕频道",汕头二套
+http://player.200877926.top/17/gd/shantoum3u8.php?id=gdsttv2
 #EXTINF:-1 group-title="潮汕频道",潮州综合
-http://live.zscz0768.com/live/zhpd.m3u8
+http://dslive.grtn.cn/czzh/sd/live.m3u8
 #EXTINF:-1 group-title="潮汕频道",潮州公共
 http://live.zscz0768.com/live/ggpd.m3u8
 #EXTINF:-1 group-title="潮汕频道",揭阳综合
@@ -115,8 +117,6 @@ http://tx.hls.huya.com/huyalive/29169025-2686221276-11537232530239389696-2777027
 https://aldirect.hls.huya.com/huyalive/29359996-2689613622-11551802545366106112-2847687550-10057-A-0-1_1200.m3u8
 #EXTINF:-1 group-title="虎牙电视剧轮播",少年包青天
 https://aldirect.hls.huya.com/huyalive/30765679-2534694464-10886429828232249344-2789253856-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="虎牙电视剧轮播",海派甜心
-http://tx.hls.huya.com/huyalive/29359996-2689611142-11551791893847212032-2847699130-10057-A-0-1.m3u8
 #EXTINF:-1 group-title="虎牙电视剧轮播",医馆笑传
 https://txdirect.hls.huya.com/huyalive/29359996-2689637846-11551906586653884416-2847687566-10057-A-0-1_1200.m3u8
 #EXTINF:-1 group-title="虎牙电视剧轮播",咱们结婚吧
@@ -178,10 +178,6 @@ http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_niandaijuchang_1
 http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_jingdianjuchang_1080p_t10/c16_lb_jingdianjuchang_1080p_t10.m3u8
 #EXTINF:-1 group-title="爱奇艺轮播",收视冠军
 http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_dajuchongwen_1080p_t10/c15_lb_dajuchongwen_1080p_t10.m3u8
-#EXTINF:-1 group-title="爱奇艺轮播",湖南卫视
-http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c20_lb_songzhongji_1080p_t10/c20_lb_songzhongji_1080p_t10.m3u8
-#EXTINF:-1 group-title="爱奇艺轮播",东方卫视
-http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_jiayouernv_1080p_t10/c16_lb_jiayouernv_1080p_t10.m3u8
 #EXTINF:-1 group-title="爱奇艺轮播",名侦探柯南
 http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_mingzhentankenan_1080p_t10/c15_lb_mingzhentankenan_1080p_t10.m3u8
 #EXTINF:-1 group-title="爱奇艺轮播",喜剧大咖
