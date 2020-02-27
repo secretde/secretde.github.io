@@ -5,8 +5,8 @@ http://dslive.grtn.cn/stzh/sd/live.m3u8
 http://183.238.77.9:9090/live/shantouyitaogaoqing_4500.m3u8
 #EXTINF:-1 group-title="潮汕频道",汕头二套HD
 http://183.238.77.9:9090/live/shantouertaogaoqing_4500.m3u8
-#EXTINF:-1 group-title="潮汕频道",汕头三套HD
-http://183.238.77.9:9090/live/shantousantaogaoqing_4500.m3u8
+#EXTINF:-1 group-title="潮汕频道",CCTV4K
+http://140.249.30.36/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
 #EXTINF:-1 group-title="潮汕频道",潮州综合
 http://dslive.grtn.cn/czzh/sd/live.m3u8
 #EXTINF:-1 group-title="潮汕频道",潮州公共
