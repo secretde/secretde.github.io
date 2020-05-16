@@ -24,6 +24,14 @@ https://al.rtmp.huya.com/backsrc/1448686695-1448686695-6222061977175326720-28476
 https://al.rtmp.huya.com/backsrc/30765679-2479074344-10647543231832653824-3049003166-10057-A-0-1.m3u8
 #EXTINF:-1 group-title="虎牙电影轮播",搞笑喜剧
 https://al.rtmp.huya.com/backsrc/30765679-2554414680-10971127511022305280-3048991634-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="虎牙电影轮播",盗墓系列
+https://al.rtmp.huya.com/backsrc/28466698-2689654812-11551979455069028352-2847687626-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="虎牙电影轮播",国产动画
+https://al.rtmp.huya.com/backsrc/1448731701-1448731701-6222255276473450496-2789274560-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="虎牙电影轮播",古天乐
+https://al.rtmp.huya.com/backsrc/86467402-86467402-371374663760084992-2164003440-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="虎牙电影轮播",犯罪片
+https://al.rtmp.huya.com/backsrc/28466698-2689654156-11551976637570482176-2847699186-10057-A-0-1.m3u8
 #EXTINF:-1 group-title="虎牙电影轮播",徐峥
 https://al.rtmp.huya.com/backsrc/30765679-2689675828-11552069718101721088-3048991626-10057-A-0-1_1200.m3u8
 #EXTINF:-1 group-title="虎牙电影轮播",李连杰
