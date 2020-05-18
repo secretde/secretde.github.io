@@ -6,6 +6,12 @@ http://dslive.grtn.cn/czzh/sd/live.m3u8
 #EXTINF:-1 group-title="潮汕频道",揭阳综合
 http://dslive.grtn.cn/jyzh/sd/live.m3u8
 
+#EXTINF:-1 group-title="虎牙电影轮播",进击的神乐
+http://tx2play1.douyucdn.cn/live/85894rmovieChow_2000p.m3u8
+#EXTINF:-1 group-title="虎牙电影轮播",进击の神乐
+http://tx2play1.douyucdn.cn/live/122402rK7MO9bXSq_2000p.m3u8
+#EXTINF:-1 group-title="虎牙电影轮播",可乐橙
+http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K_2000.m3u8
 #EXTINF:-1 group-title="虎牙电影轮播",周星驰
 https://al.rtmp.huya.com/backsrc/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1.m3u8
 #EXTINF:-1 group-title="虎牙电影轮播",林正英
@@ -14,6 +20,8 @@ https://al.rtmp.huya.com/backsrc/94525224-2460686034-10568566041753944064-278927
 https://al.rtmp.huya.com/backsrc/29141112-2689675756-11552069408864075776-3048959626-10057-A-0-1.m3u8
 #EXTINF:-1 group-title="虎牙电影轮播",贺岁大片
 https://al.rtmp.huya.com/backsrc/28466698-2689663056-11552014862779416576-3048959692-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="虎牙电影轮播", 卧底警匪
+https://al.rtmp.huya.com/backsrc/1449699065-1449699065-6226410073216778240-2847687556-10057-A-0-1.m3u8
 #EXTINF:-1 group-title="虎牙电影轮播", 国产玄幻
 https://al.rtmp.huya.com/backsrc/29106097-2689283558-11550384931280519168-2789274528-10057-A-0-1.m3u8
 #EXTINF:-1 group-title="虎牙电影轮播",虎牙八点档
