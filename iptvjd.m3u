@@ -6,24 +6,9 @@ http://dslive.grtn.cn/czzh/sd/live.m3u8
 #EXTINF:-1 group-title="潮汕频道",揭阳综合
 http://dslive.grtn.cn/jyzh/sd/live.m3u8
 
-#EXTINF:-1 group-title="虎牙电影轮播",进击的神乐
-http://tx2play1.douyucdn.cn/live/85894rmovieChow_4000p.m3u8
-#EXTINF:-1 group-title="虎牙电影轮播",进击の星爷
-http://tx2play1.douyucdn.cn/live/122402rK7MO9bXSq_4000p.m3u8
-#EXTINF:-1 group-title="虎牙电影轮播",狂拽酷炫
-http://tx2play1.douyucdn.cn/live/252802rbQGaZXUQi_4000.m3u8
-#EXTINF:-1 group-title="虎牙电影轮播",可乐橙
-http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K_4000.m3u8
-#EXTINF:-1 group-title="虎牙电影轮播",港剧
-http://tx2play1.douyucdn.cn/live/4549169r7QlhWBwC.m3u8
-
-
-北京冬奥会开幕式直播源
-8K
-http://down.btvcloud.com/8k2021zhibo/zhibo8K2021.m3u8
-
-4K
+#EXTINF:-1 group-title="虎牙电影轮播",CCTV4K
 http://223.110.235.9/ott.js.chinamobile.com/PLTV/3/224/3221228168/index.m3u8
-
-4KHDR
+#EXTINF:-1 group-title="虎牙电影轮播",4khdr
 http://223.110.235.24/ott.js.chinamobile.com/PLTV/3/224/3221228127/index.m3u8
+#EXTINF:-1 group-title="虎牙电影轮播",8k
+http://down.btvcloud.com/8k2021zhibo/zhibo8K2021.m3u8
